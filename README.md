@@ -8,18 +8,18 @@
 - ⚡ Fun fact: ...
 -->
 
-My name is Dmytro I am from Kyiv however living and working in Poland now.
+My name is Dmytro. I am from Kyiv, living and working in Poland now.
 
-Experienced Network Engineer with over ten years of experience in ISP, helping companies to meet and exceed projected expectations. Adept in trouble-shooting and working to offer solutions. 
-A strong team player with good collaboration skills, and a commitment to maximizing the production process within a facility.
-Resourceful, and committed to continually advancing my knowledge of relevant technologies.
+Experienced Network Engineer with over ten years of experience in ISP, helping companies to meet and exceed projected expectations. Adept in troubleshooting and working to offer solutions. 
+A strong team player with good collaboration skills and a commitment to maximizing the production process within a facility.
+Resourceful and committed to continually advancing my knowledge of relevant technologies.
 
 - 🔭 I’m currently working as a Network Transmission Engineer and looking for an opportunity to switch to Cloud or DevOps engineer role 
 - 🌱 I’m currently learning DevOps tools and  practices.
 - 💬 Ask me about ISP, DWDM, SDH networks
 - 📫 How to reach me: https://www.linkedin.com/in/nevenchanyidmytro
 
-My employment history is following:
+My employment history is as follows:
   - since June 2022:               Transmission Engineer (Services implementation and 2nd Line Infrastructure team) (BICS outstaff) at Infopulse Poland, Bydgoszcz
   - January 2021 - May 2022:       Transmission Design and Configuration Engineer (NOKIA) at NATEK Poland, Bydgoszcz
   - January 2018 - December 2020:  Service Engineer, 1st Line Infrastructure NOC 24/7 (BICS outstaff) at Infopulse Ukraine, Kyiv
@@ -37,9 +37,9 @@ My education:
                                  - Windows Server Administration 2003 - December 2010
                                  - Cisco Certified Network Associate (ICND v2.3) - July 2007 
   
-  - Languages:  Ukranian - native
-                English - B1 
-                Polish - A2
-My hobbies are football, snowboarding and swimming
+  - Languages:  - Ukrainian - native
+                - English - B1 
+                - Polish - A2
+My hobbies are football, snowboarding, and swimming
 
 
