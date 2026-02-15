@@ -37,9 +37,10 @@ My education:
                                  - Windows Server Administration 2003 - December 2010
                                  - Cisco Certified Network Associate (ICND v2.3) - July 2007 
   
-  - Languages:  - Ukrainian - native
-                - English - B1 
-                - Polish - A2
+  - Languages:  Ukrainian - native;
+                English - B1;
+                Polish - A2
+    
 My hobbies are football, snowboarding, and swimming
 
 
