@@ -24,7 +24,7 @@ My employment history is as follows:
   - January 2021 - May 2022:       Transmission Design and Configuration Engineer (NOKIA) at NATEK Poland, Bydgoszcz
   - January 2018 - December 2020:  Service Engineer, 1st Line Infrastructure NOC 24/7 (BICS outstaff) at Infopulse Ukraine, Kyiv
   - May 2015 - January 2018:       Leading TN optimization engineer, Central support division (Optic network) at Lifecell Ukraine, Kyiv
-  - October 2005 - April 2015:     Leading engineer, System Administration Team (Optic network) at Datagroup, Kyiv (I have held various roles including Consultant, Operator, Shift Engineer, and Engineer.)
+  - October 2005 - April 2015:     Leading engineer, System Administration Team (Optic network) at Datagroup, Kyiv (I have held various roles, including Consultant, Operator, Shift Engineer, and Engineer.)
 
 My education:
   - September 2002 — May 2008:   Bachelor, National Technical University of Ukraine «Kyiv Polytechnic Institute» (NTUU «KPI»), Kyiv.
@@ -37,10 +37,7 @@ My education:
                                  - Windows Server Administration 2003 - December 2010
                                  - Cisco Certified Network Associate (ICND v2.3) - July 2007 
   
-  - Languages:  Ukrainian - native;
-                English - B1;
-                Polish - A2
-    
-My hobbies are football, snowboarding, and swimming
+**Languages:**  Ukrainian - (native), English (B1), Polish (A2)  
+**My hobbies:** football, snowboarding, and swimming
 
 
