@@ -10,7 +10,7 @@
 
 My name is Dmytro. I am from Kyiv, living and working in Poland now.
 
-Experienced Network Engineer with over 15 years of experience in ISP, helping companies to meet and exceed project expectations. Skilled at troubleshooting and services implementation.  
+Experienced Network Engineer with over 15 years of experience in ISP, helping companies to meet and exceed project expectations. Skilled at troubleshooting and services implementation.  
 A collaborative and adaptable team player with strong interpersonal skills, committed to optimizing processes and delivering results. Focus on customer needs and satisfaction, and provide high-quality support.  
 Fast learner, curious about new technologies (cloud, AI), and quick to adjust to different people and situations.  
 
